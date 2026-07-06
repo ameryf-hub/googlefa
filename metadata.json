@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Echocardiogram Cine Loop Database \u0026 Analyzer",
+  "description": "Create a database of patient echocardiogram studies and cine loops with real-time video simulation, caliper measurements, and automated AI view classification, diagnostic reporting, and cardiological guidelines reference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
